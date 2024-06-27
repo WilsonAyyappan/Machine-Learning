@@ -4,6 +4,6 @@ Repository Contents:
 
 AirQuality_Data.ipynb, WaterPotability_Data.ipynb: Preprocessing and analysis notebooks.
 
-Q-Learning.ipynb, Q-Learning1.ipynb: Model comparison using Q-learning algorithms.
+Q-Learning.ipynb, Q-Learning1.ipynb: Model comparison using Q-learning algorithms(my contribution focused on preprocessing and comparing both datasets with Q-learning models as part of a group coursework).
 
 CadBury_Grp_Report.pdf: Final project report.
