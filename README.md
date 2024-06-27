@@ -4,6 +4,6 @@ Skills Applied: Machine Learning, Data Preprocessing, Feature Engineering, Model
 
 AirQuality_Data.ipynb, WaterPotability_Data.ipynb -> Preprocessed Data files
 
-Q-Learning.ipynb, Q-Learning1.ipynb -> Comparison of Models (This was a group coursework. Comparing both Air Quality and Water Potability datasets with Q learning model was my part.)
+Q-Learning.ipynb, Q-Learning1.ipynb -> Comparison of Models (This was a group coursework. Preprocessing and Comparing both Air Quality and Water Potability datasets with Q learning model was my part.)
 
 CadBury_Grp_Report.pdf ->  Final Report
